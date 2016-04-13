@@ -1,7 +1,7 @@
 name: My Skipper Lifestyle
 favicon: null
-layout_spectrum: 0.015484442003071308
-typography_spectrum: 0.03430530335754156
+layout_spectrum: 0.26706
+typography_spectrum: 0.90014
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#ffd9a5'
     - '#423836'
     - '#da7c62'
-  brandStrength: 0.625
+  brandStrength: 0.25
   lightness: 0.06806535739451647
   saturation: 0.14513194002211094
-  rhythmicContrast: 0.6466892813332379
+  rhythmicContrast: 0.25
 purpose: []
