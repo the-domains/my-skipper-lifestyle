@@ -1,0 +1,28 @@
+name: My Skipper Lifestyle
+favicon: null
+layout_spectrum: 0.015484442003071308
+typography_spectrum: 0.03430530335754156
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.46495960419997573
+  lightness: 0.06806535739451647
+  saturation: 0.14513194002211094
+  rhythmicContrast: 0.6466892813332379
+purpose: []
