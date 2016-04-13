@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[My Skipper Lifestyle]]></title>
+        <description><![CDATA[My Skipper Lifestyle]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 13 Apr 2016 16:11:54 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Chapter 2: Learning Discipline - The 10 Week Wim Hoff Experiment]]></title>
+            <description><![CDATA[<article><h1>Chapter 2: Learning Discipline - The 10 Week Wim Hoff Experiment</h1><p>When I first envisioned myself being a skipper I thought I had a pretty good imagination of what it was going to be like. Seeing the YouTube Videos I knew I wanted to spend my summer doing just that, sailing around the islands of Croatia, adventuring off on scooters with the crews, partying my ass off in the castles.</p></article>]]></description>
+            <link>undefinedchapter-2-learning-discipline-the-10-week-wim-hoff-experi/index.html</link>
+            <guid isPermaLink="false">1e25db4f-bc83-41e4-9e38-64ebcfc9f887</guid>
+            <pubDate>Wed, 13 Apr 2016 16:11:53 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
