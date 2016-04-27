@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'April 27, 2016 1:45 PM –– Finished 3 rounds of Wim Hoff '
-datePublished: '2016-04-27T18:06:01.787Z'
-dateModified: '2016-04-27T18:04:53.391Z'
+datePublished: '2016-04-27T18:06:48.910Z'
+dateModified: '2016-04-27T18:06:03.547Z'
 title: ''
 author: []
 authors: []
