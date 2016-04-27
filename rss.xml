@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[My Skipper Lifestyle]]></title>
         <description><![CDATA[My Skipper Lifestyle]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/my-skipper-lifestyle/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Apr 2016 16:11:54 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 27 Apr 2016 18:06:41 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/my-skipper-lifestyle/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>April 27, 2016 1:45 PM –– Finished 3 rounds of Wim Hoff </p>]]></description>
+            <link>https://thegrid.ai/my-skipper-lifestyle/april-27-2016-145-pm-finished-3-rounds-of-wim-hoff/index.html</link>
+            <guid isPermaLink="false">b99bd41b-ccca-4156-8088-013b86943e56</guid>
+            <pubDate>Wed, 27 Apr 2016 18:06:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Chapter 2: Learning Discipline - The 10 Week Wim Hoff Experiment]]></title>
-            <description><![CDATA[<article><h1>Chapter 2: Learning Discipline - The 10 Week Wim Hoff Experiment</h1><p>When I first envisioned myself being a skipper I thought I had a pretty good imagination of what it was going to be like. Seeing the YouTube Videos I knew I wanted to spend my summer doing just that, sailing around the islands of Croatia, adventuring off on scooters with the crews, partying my ass off in the castles.</p></article>]]></description>
-            <link>undefinedchapter-2-learning-discipline-the-10-week-wim-hoff-experi/index.html</link>
+            <description><![CDATA[<p>When I first envisioned myself being a skipper I thought I had a pretty good imagination of what it was going to be like. Seeing the YouTube Videos I knew I wanted to spend my summer doing just that, sailing around the islands of Croatia, adventuring off on scooters with the crews, partying my ass off in the castles.</p>]]></description>
+            <link>https://thegrid.ai/my-skipper-lifestyle/chapter-2-learning-discipline-the-10-week-wim-hoff-experi/index.html</link>
             <guid isPermaLink="false">1e25db4f-bc83-41e4-9e38-64ebcfc9f887</guid>
             <pubDate>Wed, 13 Apr 2016 16:11:53 GMT</pubDate>
         </item>
