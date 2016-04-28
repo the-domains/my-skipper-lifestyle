@@ -1,0 +1,53 @@
+---
+inFeed: true
+hasPage: true
+inNav: false
+inLanguage: null
+keywords: []
+description: 'April 28th, 2016 - Flying to Sint Maarten'
+datePublished: '2016-04-28T20:45:53.732Z'
+dateModified: '2016-04-28T20:37:44.630Z'
+title: ''
+author: []
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+starred: false
+sourcePath: _posts/2016-04-28-april-28th-2016-flying-to-sint-maarten.md
+published: true
+url: april-28th-2016-flying-to-sint-maarten/index.html
+_type: Article
+
+---
+April 28th, 2016 - Flying to Sint Maarten
+
+With the weather not looking like non-traditional forecasts (gloomy) in the BVI's, I'm beginning to be concerned for the departure early in the morning on Saturday. 
+
+I'm leaving St. Maarten (the French side) for Sopers Hole, Tortola at 0300 hours. The charter I've accepted came from my friend Julian and while I'm excited for the opportunity to take my sailing career past the yacht week, I'd be lying if I said I wasn't a bit nervous. 
+
+On Friday (tomorrow), I need to have the boat ready to leave by 1600 hours and slip the lines no later than 1700 hours. The reason being is that I need to take our catamaran underneath the Simson Bay bridge at 1730 hours and anchor/pick up a mooring ball before dark. So I've got about an hour window---in a shallow bay I've never sailed before. 
+
+Today's skipper lifestyle starts the inevitable process of living in the transitions. I go from being comfortable to uncomfortable in the matter of days. And the next two weeks of uncertainty is what's giving me an anxious feeling in my stomach. 
+
+Nerves are one thing, but when you have back to back weeks with people's lives in your hands, you have to keep yourself in check. 
+
+Most of the time I need a few hours of meditative focus on what I'm about to take on, which I did last week. Now's the time I need to live in the moment, reflection time is over, and getting local-expert answers is where I'll start. 
+
+In the last week I got two apps that helped me prepare for my charter. The first being Navionics---buying the Caribbean maps. And the second is a weather app called MeteoEarth which is great for gathering up to 12 hour forecasts---in this case wind, rain, and clouds to frame my departure window. 
+
+For the first time I'm on my own with a boat. 
+
+_Using Adversity ([The Art of Learning ][0]) thoughts on the day_: I went to the BVI's in March for TYW. And when I was threatened to lose my skippering job this summer in Croatia for "tagging along for a free trip" ---I won't name names---I stuck it out and listened to the guests who invited me to join their week. It couldn't have been more crucial for my trip in the next day. Being in a place and imagining a place are two completely different things, especially if you're trying to get suggestions from local skippers, where many are at sea. 
+
+When I get to St. Marteen I'll start my camera (with maybe a shot or two of me writing this in the airport). I won't have any WiFi and only a rough estimate of my AirBnb (which looks like shit, but we'll see for $30/night). 
+
+As I get settled in for an hour or so, I then have two priorities: confirming with the charter company my licenses are cleared for take off and making sure the crew knows our scheduled window to depart. Meaning they do grocery shopping in a timely manor. 
+
+_\*I have an American Sailing Association (ASA 106) license, which is not a commercial license. I've basically got a "coastal skipper" certification that says I know how to take a bout in/out of coastal waters. And no one in these waters really know what it is... so I may have a dilemma when I check in to get the boat i.e.. why I'm going a day early. __1:08 PM_
+
+--- Fish Fingers, "If I turn around I know what I'm going back too, but if I get on that boat, my story is unwritten." 
+
+[0]: http://www.amazon.com/Art-Learning-Journey-Optimal-Performance/dp/0743277465/ref=sr_1_1?ie=UTF8&qid=1461875677&sr=8-1&keywords=the+art+of+learning
